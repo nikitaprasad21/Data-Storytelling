@@ -2,7 +2,7 @@
 
 # I'm Nikita Prasad.
 
-### ***Data Analyst*** | ***Machine Learning and Data Science Practitioner*** 
+### ***AI Consultant*** | ***Data Analyst*** | ***Machine Learning Practitioner*** 
 
 Glad to see you here. As a Data Professional, I distill down **Data** for ACTIONABLE Takeaways. Here you can browse through my Data Diary! 👇🏻
 
